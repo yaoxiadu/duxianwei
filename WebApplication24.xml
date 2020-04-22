@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication24</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplication24.Controllers.UserController.Login">
+            <summary>
+            获取
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication24.Controllers.UserController.Getname">
+            <summary>
+            获取文本
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication24.Controllers.UserController.Sum(System.Int32,System.Int32)">
+            <summary>
+            两数相加
+            </summary>
+            <param name="num1">第一个数</param>
+            <param name="num2">第二个数</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
